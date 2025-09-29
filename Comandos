@@ -1,0 +1,7 @@
+Entrar en el contenedor
+docker compose run --service-ports web bash
+
+Cualquier modificacion en Rails
+
+dockercompose build
+docker compose up
